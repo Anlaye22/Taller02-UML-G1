@@ -1,4 +1,8 @@
 public class Administrador extends Usuario {
+
+    public Administrador() {
+    }
+    
     public void crearUsuarioConRol(String usuario, String contraseña) {
     }
 
