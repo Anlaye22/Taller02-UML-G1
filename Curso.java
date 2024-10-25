@@ -6,6 +6,7 @@ public class Curso {
   private ArrayList<Estudiante> estudiantesInscritos;
   private Profesor responsable;
   private ArrayList<Foro> foros;
+  private ArrayList<ActividadSumativa> actividadesSumativas;
 
   public Curso() {
   }
