@@ -1,6 +1,9 @@
 public class PersonalAcadémico extends Usuario {
 
     protected ArrayList<Incidente> incidentes;
+
+    public PersonalAcadémico() {
+    }
     
     public void reportarError(String email, String contenido) {
     }
