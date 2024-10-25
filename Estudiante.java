@@ -1,3 +1,7 @@
 public class Estudiante extends PersonalAcadémico {
-  public 
+  public void solicitarInscripcionCurso (Curso curso) {
+  }
+
+  public void realizarActividadSumativa (Curso curso, ActividadSumativa actividadSumativa) {
+  }
 }
