@@ -10,13 +10,12 @@ public class Curso {
   public Curso() {
   }
 
-  public void crear(String i, String n, boolean e, Arraylist<Estudiante> eeeI, ArrayList<Estudiante> eI, Profesor r, ArrayList<Foro> f) {
+  public void crear(String i, String n, boolean e, Arraylist<Estudiante> eeeI, ArrayList<Estudiante> eI, Profesor r) {
     id = i;
     nombre = n;
     estadoDisponible = e;
     estudiantesEnEsperaDeInscripcion = eeeI;
     estudiantesInscritos = eI;
     responsable = r;
-    foros = f;
   }
 }
