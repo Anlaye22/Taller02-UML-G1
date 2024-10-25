@@ -8,4 +8,5 @@ public class Incidente {
   protected Datetime fecha_cerrado;
   protected String tipo;
   protected Usuario responsable;
+  protected PersonalAcadémico beneficiario;
 }
