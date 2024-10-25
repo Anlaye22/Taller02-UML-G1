@@ -3,4 +3,4 @@
 
 
 # Diagrama de suecuencia del casos de uso "Cargar Material Educativo"
-![Diagrama2](SecuenciaCargaArchivos.png)
+
