@@ -5,6 +5,9 @@ public class Usuario {
     protected String apellido;
     protected ArrayList<Incidente> incidentes;
 
+    public Usuario() {
+    }
+    
     protected boolean logIn() {
         // implementación momentánea
         return true;
