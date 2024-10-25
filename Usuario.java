@@ -3,6 +3,7 @@ public class Usuario {
     protected String contraseña;
     protected String nombre;
     protected String apellido;
+    protected ArrayList<Incidente> incidentes;
 
     protected boolean logIn() {
         // implementación momentánea
