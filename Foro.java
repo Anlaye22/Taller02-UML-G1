@@ -3,4 +3,7 @@ public class Foro {
   private String tematica;
   private int numeroDeComentarios;
   private Curso curso;
+
+  public Foro() {
+  }
 }
