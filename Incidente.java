@@ -9,4 +9,7 @@ public class Incidente {
   protected String tipo;
   protected Usuario responsable;
   protected PersonalAcadémico beneficiario;
+
+  public Incidente() {
+  }
 }
