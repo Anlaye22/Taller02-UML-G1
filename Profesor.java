@@ -1,6 +1,9 @@
 public class Profesor extends PersonalAcadémico {
 
   private ArrayList<Curso> cursosACargo;
+
+  public Profesor(){
+  }
   
   public void cargarActividadSumativa (Curso curso, ActividadSumativa actividadSumativa) {
   }
